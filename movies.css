@@ -1,0 +1,22 @@
+div{
+    margin-top: 1em;
+}
+.error{
+    color: red;
+}
+
+form{
+    font-family: verdana, sans-serif;
+    font-size: 15px;
+}
+
+.movie-details{
+    font-family: verdana, sans-serif;
+    font-size: 18px;
+}
+
+.remove-button{
+    margin-left: 1px;
+    font-weight: bold;
+    padding: 0em .75em;
+}
